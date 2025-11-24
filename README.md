@@ -1,5 +1,6 @@
 # Library-Manager
 Library Management System Overview
+
 A Python-based Library Management System using MySQL for database operations. Features include adding books, viewing all records, searching by category, and removing books. Built with mysql-connector-python and tabulate for clean console output. Ideal for learning database connectivity and CRUD operations in Python projects.
 Features
 Add Books: Store new book records with title, author, publishing date, publisher, and category View All Books: Display all library records in a formatted table Search by Category: Filter and display books by their category Remove Books: Delete book records by title User-Friendly Interface: Simple menu-driven console application
